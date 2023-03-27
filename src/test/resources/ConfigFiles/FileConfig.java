@@ -8,7 +8,7 @@ import java.util.Properties;
 public class FileConfig {
 
 	public static Properties property;
-	private static String configPath="\\src\\test\\resources\\ConfigFiles\\confi.properties";
+	private static String configPath="src\\test\\resources\\ConfigFiles\\confi.properties";
 	
 	public static void fileReader() {
 

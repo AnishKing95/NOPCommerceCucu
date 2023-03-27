@@ -14,6 +14,7 @@ public class LoginPageSteps extends Initializaion.Initialization {
 
 			System.setProperty("webdriver.chrome.driver", "Driver\\chromedriver.exe");
 //			driver = new ChromeDriver();
+			
 		}
 
 		driver.get(FileConfig.property.getProperty("appUrl"));

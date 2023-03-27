@@ -7,10 +7,6 @@ import org.openqa.selenium.support.PageFactory;
 import PageObjects.LoginPage;
 
 
-
-
-
-
 public class Initialization {
 
 	public static WebDriver driver = new ChromeDriver();
