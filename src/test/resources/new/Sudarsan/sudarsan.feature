@@ -28,7 +28,7 @@ Given user can able to enter into home page
 And user can login with valid credentials
 And user select the add to card under the required product in accesories page
 And check please select size warring message come 
-When select the size 
+When select the size  
 Then check the product can be add to card
 
 Scenario: Verify user can change the product quantity
