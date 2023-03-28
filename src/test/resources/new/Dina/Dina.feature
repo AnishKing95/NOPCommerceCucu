@@ -54,7 +54,8 @@ When user to select on continue button
 
 Scenario: nopcommmerce navigate to shipping method page
 When user navigate on next page
-And user select on  continue 
+And user select on continue
+
 
 
 Scenario: nopcommmerce navigate to shipping payment page
