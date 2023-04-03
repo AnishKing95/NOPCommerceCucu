@@ -18,7 +18,6 @@ public class LoginPageSteps extends Initializaion.Initialization {
 		}
 
 		driver.get(FileConfig.property.getProperty("appUrl"));
-		driver.manage().window().maximize();
 
 	}
 
