@@ -42,6 +42,9 @@ public class LoginPage {
 	private WebElement regBotton;
 	
 	
+	
+	
+	
 	public WebElement getRegister() {
 		return register;
 	}
